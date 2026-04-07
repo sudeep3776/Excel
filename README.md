@@ -1,6 +1,6 @@
-# ExcelSwiggy sales dashboard
+# Swiggy sales dashboard
 
-1. Project Title
+## Project Title
 
 Swiggy Sales Analysis Dashboard using Excel
 
@@ -8,15 +8,15 @@ Swiggy Sales Analysis Dashboard using Excel
 - <a href="https://github.com/sudeep3776/Excel/blob/main/Swiggy%20Raw%20Data%20Excel%20(1).xlsx">Dataset view</a>
 - dashboard <a href="https://github.com/sudeep3776/Excel/blob/main/Swiggy%20sales%20dashboard%20Excel.xlsx">dashboard view</a>
 
-2. One-Line Summary
+## One-Line Summary
 
 An interactive Excel dashboard analyzing food delivery sales, customer behavior, and operational performance to generate actionable insights.
 
- 3. Overview
+##  Overview
 
 This project focuses on analyzing Swiggy sales data using Excel to uncover trends in orders, revenue, customer preferences, and delivery performance. The dashboard provides a clear and interactive view of key business metrics to support strategic decision-making.
 
- 4. Problem Statement
+## Problem Statement
 
 Food delivery platforms generate large volumes of data, but extracting meaningful insights is challenging without proper visualization.
 This project aims to:
@@ -26,7 +26,8 @@ Identify top-performing categories and locations
 Analyze customer ordering patterns
 Improve operational efficiency using data insights
 
- 5. Dataset
+##  Dataset
+
 Source: Swiggy sales dataset (Excel format)
 Data Type: Structured data
 Key Columns:
@@ -39,7 +40,8 @@ Delivery Time
 Customer Ratings
 Payment Status
 
- 6. Tools & Technologies
+##  Tools & Technologies
+
 Microsoft Excel
 Pivot Tables
 Pivot Charts
@@ -47,7 +49,8 @@ Data Cleaning Techniques
 Conditional Formatting
 Dashboard Design
 
- 7. Methods
+##  Methods
+
 Data Cleaning:
 Removed duplicates
 Handled missing values
@@ -64,7 +67,8 @@ Dashboard:
 Interactive slicers (city, category, date)
 KPI summary cards
 
-💡 8. Key Insights 
+##  Key Insights
+
 Identified top-performing food categories contributing the highest revenue
 Found peak order times, helping understand customer demand patterns
 Detected high-performing cities/locations with maximum sales
@@ -74,7 +78,8 @@ Identified low-performing segments needing improvement
 Found patterns in payment status and order completion rates
 Seasonal/monthly trends revealed fluctuations in demand
 
- 9. Dashboard / Output
+##  Dashboard / Output
+
 Interactive Excel dashboard featuring:
 KPI metrics (Total Orders, Total Revenue, Avg Delivery Time)
 Sales trend analysis
@@ -85,7 +90,8 @@ Filters for dynamic exploration
  Screenshot <img width="1333" height="746" alt="Screenshot dashboard" src="https://github.com/user-attachments/assets/e7e85dfa-f2b1-4fa5-9eca-10b7020a1da9" />
 
 
- 10. How to Run This Project
+##  How to Run This Project
+
 Download the Excel file from the repository
 Open in Microsoft Excel 
 Use slicers and filters to explore data
